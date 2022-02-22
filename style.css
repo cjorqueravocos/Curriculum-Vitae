@@ -1,0 +1,42 @@
+.entry {
+    padding: 5px 5px 5px 5px;
+}
+a{
+    color: #555;
+    text-decoration: none;
+}
+a:hover {
+    font-weight: 400;
+    color:#333;
+    text-decoration: none;
+}
+@media print {
+	.no-printme  {
+		display: none;
+	}
+	.printme  {
+		display: block;
+	}
+}
+.floating-d {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+.floating-p {
+    position: fixed;
+    bottom: 55px;
+    right: 10px;
+}
+.badge {
+    text-transform: uppercase;
+}
+@media (max-width: 768px){
+    .information{
+        margin-top: 25px;
+    }
+}
+.languages {
+    margin: 10px 5px 10px 5px;
+    margin-top: 10px;
+}
