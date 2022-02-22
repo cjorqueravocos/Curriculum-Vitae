@@ -1,4 +1,4 @@
-const nombre = "Delfina Cañas"
+const nombre = "Camila Jorquera Vocos"
 
 const experiencia = [
     {
