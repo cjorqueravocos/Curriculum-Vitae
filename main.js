@@ -12,8 +12,7 @@ const estudios = [{
     lugar: "Universidad Provincial de Córdoba",
     periodo: "2020- ",
     descripción: "Diseño Gráfico"
-    },
-    {
+    },{
     lugar: "Instituto Superior Cruz Roja Argentina - Filial Córdoba",
     periodo: "2014-2016",
     descripción: "Tecnicatura Superior en Instrumentación Quirúrgica"
