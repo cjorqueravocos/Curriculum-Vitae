@@ -27,6 +27,7 @@ const estudios = [{
 const lenguajesActuales = [
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"
 
 ]
 
@@ -35,10 +36,7 @@ const lenguajesAprendiendo = [
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
-    "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg",
-    "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355"
+    "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"
 ]
 
 // Cambia el nombre del H1 que con tiene el nombre del usuario
