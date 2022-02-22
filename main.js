@@ -2,21 +2,25 @@ const nombre = "Camila Jorquera Vocos"
 
 const experiencia = [
     {
-    lugar: "AguaZarca Inmobiliaria",
-    periodo: "May 2018 - Actualidad",
-    descripción: "En mi trabajo como secretaria y social media manager desarrollaba tareas como la administración en redes sociales, ingresar propiedades a medios digitales, archivar documentos, pago y comprobación de deuda y atención a clientes. "
-    },
-    {
-    lugar: "Alto Brillo",
-    periodo: "Mar 2016 -  Mar 2017",
-    descripción: "En mi trabajo como vendedora hacía atención al publico, administración  del stock, llevaba el registro de productos y ventas para luego cargarlos al sistema"
+    lugar: "Sanatorio Allende",
+    periodo: "Dic 2017 - Actualidad",
+    descripción: "Me desempeño en el área de quirófano como Instrumentadora Quirúrgica con especialidad en el servicio de Urología"
     }
 ];
 
 const estudios = [{
-    lugar: "Nueva Escuela Juan Mantovani",
-    periodo: "2011-2018",
-    descripción: "Bachiller en Ciencias Naturales"
+    lugar: "Universidad Provincial de Córdoba",
+    periodo: "2020- ",
+    descripción: "Diseño Gráfico"
+    },
+    {
+    lugar: "Instituto Superior Cruz Roja Argentina - Filial Córdoba",
+    periodo: "2014-2016",
+    descripción: "Tecnicatura Superior en Instrumentación Quirúrgica"
+    },{
+    lugar: "Instituto Remedios Escalada de San Martín",
+    periodo: "2006-2011",
+    descripción: "Bachiller orientado en Economía y Gestión de las Organizaciones. Especialidad Gestión Administrativa."    
     }
 ];
 
